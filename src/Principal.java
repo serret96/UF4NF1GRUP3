@@ -39,7 +39,7 @@ public class Principal {
                     System.out.println("El resultat en ms es :" + ms);
 
                     break;
-
+//sds
                 case 2:
 //                    Exercici 9 el primer
                     System.out.println("Calculadora, selecciona l'operacio desitjada (+, -, *, /)");
